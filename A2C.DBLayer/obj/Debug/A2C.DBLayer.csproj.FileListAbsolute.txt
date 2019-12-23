@@ -1,0 +1,27 @@
+C:\Users\user\source\repos\InventoryTrackingModule\A2C.DBLayer\bin\Debug\A2C.DBLayer.dll
+C:\Users\user\source\repos\InventoryTrackingModule\A2C.DBLayer\bin\Debug\A2C.DBLayer.pdb
+C:\Users\user\source\repos\InventoryTrackingModule\A2C.DBLayer\bin\Debug\BusinessEntity.dll
+C:\Users\user\source\repos\InventoryTrackingModule\A2C.DBLayer\bin\Debug\BusinessEntity.pdb
+C:\Users\user\source\repos\InventoryTrackingModule\A2C.DBLayer\obj\Debug\A2C.DBLayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\InventoryTrackingModule\A2C.DBLayer\obj\Debug\A2C.DBLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InventoryTrackingModule\A2C.DBLayer\obj\Debug\A2C.DBLayer.csproj.CopyComplete
+C:\Users\user\source\repos\InventoryTrackingModule\A2C.DBLayer\obj\Debug\A2C.DBLayer.dll
+C:\Users\user\source\repos\InventoryTrackingModule\A2C.DBLayer\obj\Debug\A2C.DBLayer.pdb
+C:\New folder (2)\InventoryTrackingModule\A2C.DBLayer\bin\Debug\A2C.DBLayer.dll
+C:\New folder (2)\InventoryTrackingModule\A2C.DBLayer\bin\Debug\A2C.DBLayer.pdb
+C:\New folder (2)\InventoryTrackingModule\A2C.DBLayer\bin\Debug\BusinessEntity.dll
+C:\New folder (2)\InventoryTrackingModule\A2C.DBLayer\bin\Debug\BusinessEntity.pdb
+C:\New folder (2)\InventoryTrackingModule\A2C.DBLayer\obj\Debug\A2C.DBLayer.csprojAssemblyReference.cache
+C:\New folder (2)\InventoryTrackingModule\A2C.DBLayer\obj\Debug\A2C.DBLayer.csproj.CoreCompileInputs.cache
+C:\New folder (2)\InventoryTrackingModule\A2C.DBLayer\obj\Debug\A2C.DBLayer.csproj.CopyComplete
+C:\New folder (2)\InventoryTrackingModule\A2C.DBLayer\obj\Debug\A2C.DBLayer.dll
+C:\New folder (2)\InventoryTrackingModule\A2C.DBLayer\obj\Debug\A2C.DBLayer.pdb
+C:\Order_management\Order_Management\A2C.DBLayer\obj\Debug\A2C.DBLayer.csproj.CoreCompileInputs.cache
+C:\Order_management\Order_Management\A2C.DBLayer\obj\Debug\A2C.DBLayer.dll
+C:\Order_management\Order_Management\A2C.DBLayer\obj\Debug\A2C.DBLayer.pdb
+C:\Order_management\Order_Management\A2C.DBLayer\bin\Debug\A2C.DBLayer.dll
+C:\Order_management\Order_Management\A2C.DBLayer\bin\Debug\A2C.DBLayer.pdb
+C:\Order_management\Order_Management\A2C.DBLayer\bin\Debug\BusinessEntity.dll
+C:\Order_management\Order_Management\A2C.DBLayer\bin\Debug\BusinessEntity.pdb
+C:\Order_management\Order_Management\A2C.DBLayer\obj\Debug\A2C.DBLayer.csproj.CopyComplete
+C:\Order_management\Order_Management\A2C.DBLayer\obj\Debug\A2C.DBLayer.csprojAssemblyReference.cache

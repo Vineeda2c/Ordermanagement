@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Order_Management",
+    "\\Order_Management\\Content",
+    "\\Order_Management\\Controllers",
+    "\\Order_Management\\Views",
+    "\\Order_Management\\Views\\Home",
+    "\\Order_Management\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Order_Management\\Order_Management.csproj.user",
+  "PreviewInSolutionExplorer": false
+}

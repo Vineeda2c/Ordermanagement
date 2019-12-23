@@ -1,0 +1,1 @@
+C:\Order_management\Order_Management\obj\Debug\A2C.BusinessEntity.csproj.CoreCompileInputs.cache

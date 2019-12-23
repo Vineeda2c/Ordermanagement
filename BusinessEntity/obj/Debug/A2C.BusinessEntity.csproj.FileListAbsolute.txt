@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\InventoryTrackingModule\BusinessEntity\bin\Debug\BusinessEntity.dll
+C:\Users\user\source\repos\InventoryTrackingModule\BusinessEntity\bin\Debug\BusinessEntity.pdb
+C:\Users\user\source\repos\InventoryTrackingModule\BusinessEntity\obj\Debug\A2C.BusinessEntity.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InventoryTrackingModule\BusinessEntity\obj\Debug\BusinessEntity.dll
+C:\Users\user\source\repos\InventoryTrackingModule\BusinessEntity\obj\Debug\BusinessEntity.pdb
+C:\Users\user\source\repos\InventoryTrackingModule\BusinessEntity\obj\Debug\A2C.BusinessEntity.csprojAssemblyReference.cache
+C:\New folder (2)\InventoryTrackingModule\BusinessEntity\bin\Debug\BusinessEntity.dll
+C:\New folder (2)\InventoryTrackingModule\BusinessEntity\bin\Debug\BusinessEntity.pdb
+C:\New folder (2)\InventoryTrackingModule\BusinessEntity\obj\Debug\A2C.BusinessEntity.csproj.CoreCompileInputs.cache
+C:\New folder (2)\InventoryTrackingModule\BusinessEntity\obj\Debug\BusinessEntity.dll
+C:\New folder (2)\InventoryTrackingModule\BusinessEntity\obj\Debug\BusinessEntity.pdb
+C:\Order_management\Order_Management\BusinessEntity\bin\Debug\BusinessEntity.dll
+C:\Order_management\Order_Management\BusinessEntity\bin\Debug\BusinessEntity.pdb
+C:\Order_management\Order_Management\BusinessEntity\obj\Debug\A2C.BusinessEntity.csproj.CoreCompileInputs.cache
+C:\Order_management\Order_Management\BusinessEntity\obj\Debug\BusinessEntity.dll
+C:\Order_management\Order_Management\BusinessEntity\obj\Debug\BusinessEntity.pdb
+C:\Order_management\Order_Management\BusinessEntity\obj\Debug\A2C.BusinessEntity.csprojAssemblyReference.cache
